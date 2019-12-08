@@ -16,6 +16,8 @@ module.exports = function(api) {
           extensions: [
             '.ts',
             '.tsx',
+            '.android.tsx',
+            '.ios.tsx',
             '.js',
             '.jsx',
             '.android.js',
